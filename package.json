@@ -1,0 +1,46 @@
+{
+  "name": "digital_flake_assgn",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@material-tailwind/react": "^1.4.2",
+    "@notus-pro/react": "^1.0.1",
+    "@types/react-data-grid": "^4.0.12",
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "glob-parent": "^5.1.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.1.1",
+    "npm": "^10.2.1",
+    "react": "^18.2.0",
+    "react-data-grid": "^7.0.0-beta.42",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.12.0",
+    "react-router-dom": "^6.21.3",
+    "react-select": "^5.7.2",
+    "react-table": "^7.8.0",
+    "run": "^1.4.0",
+    "start": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^3.1.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.1",
+    "vite": "^4.2.0"
+  },
+  "description": "### Pages",
+  "main": "postcss.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
